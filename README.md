@@ -1,6 +1,6 @@
 # Smartsheet Python SDK [![Build Status](https://travis-ci.org/smartsheet-platform/smartsheet-python-sdk.svg)](https://travis-ci.org/smartsheet-platform/smartsheet-python-sdk) [![Coverage Status](https://coveralls.io/repos/smartsheet-platform/smartsheet-python-sdk/badge.svg?branch=master&service=github)](https://coveralls.io/github/smartsheet-platform/smartsheet-python-sdk?branch=master) [![PyPI version](https://badge.fury.io/py/smartsheet-python-sdk.svg)](https://badge.fury.io/py/smartsheet-python-sdk)
 
-This library is intended to simplify connecting to the [Smartsheet API](http://smartsheet-platform.github.io/api-docs/) from Python applications.
+This library is intended to simplify connecting to the [Smartsheet API](https://smartsheet.redoc.ly/) from Python applications.
 
 ## System Requirements
 The SDK currently supports Python 2.7, 3.4, 3.5, 3.6, pypy, and pypy3.  
